@@ -1,0 +1,13 @@
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\bin\Debug\Project-Part1.exe.config
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\bin\Debug\Project-Part1.exe
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\bin\Debug\Project-Part1.pdb
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\obj\Debug\Project-Part1.csprojResolveAssemblyReference.cache
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\obj\Debug\Project-Part1.csproj.CoreCompileInputs.cache
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\obj\Debug\Project-Part1.exe
+c:\users\joana pascoal\source\repos\Project-Part1\Project-Part1\obj\Debug\Project-Part1.pdb
+D:\Etic\Project-Part1\Project-Part1\bin\Debug\Project-Part1.exe.config
+D:\Etic\Project-Part1\Project-Part1\bin\Debug\Project-Part1.exe
+D:\Etic\Project-Part1\Project-Part1\bin\Debug\Project-Part1.pdb
+D:\Etic\Project-Part1\Project-Part1\obj\Debug\Project-Part1.csprojResolveAssemblyReference.cache
+D:\Etic\Project-Part1\Project-Part1\obj\Debug\Project-Part1.exe
+D:\Etic\Project-Part1\Project-Part1\obj\Debug\Project-Part1.pdb
